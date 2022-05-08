@@ -1,0 +1,24 @@
+{
+	"coord": { "lon": 9.3392, "lat": 11.7594 },
+	"weather": [{ "id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04d" }],
+	"base": "stations",
+	"main": {
+		"temp": 306.83,
+		"feels_like": 306.18,
+		"temp_min": 306.83,
+		"temp_max": 306.83,
+		"pressure": 1009,
+		"humidity": 31,
+		"sea_level": 1009,
+		"grnd_level": 961
+	},
+	"visibility": 10000,
+	"wind": { "speed": 4.55, "deg": 194, "gust": 4.86 },
+	"clouds": { "all": 92 },
+	"dt": 1651996982,
+	"sys": { "country": "NG", "sunrise": 1651986056, "sunset": 1652031441 },
+	"timezone": 3600,
+	"id": 2344245,
+	"name": "Dutse",
+	"cod": 200
+}
